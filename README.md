@@ -61,3 +61,19 @@ O desempenho dos modelos foi avaliado utilizando as seguintes métricas:
 - Recall;
 
 - F1-Score.
+
+---
+
+# ▶️ Como executar o código
+
+Para executar o notebook `Aprendizado de Máquina [Projeto Final] - Implementação.ipynb` e replicar os resultados, siga os passos abaixo:
+
+1. Clone o repositório:
+
+```
+git clone https://github.com/TiagoDeserth/AM-UFSCar.git
+```
+
+2. Abra o notebook: Utilize Jupyter Lab ou Google Colab;
+ 
+3. Execute as células: O notebook está estruturado para carregar os dados diretamente do GitHub, então basta executar as células em sequência para ver todo o processo.
